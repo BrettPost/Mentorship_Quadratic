@@ -1,0 +1,15 @@
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\bin\Debug\net6.0\QSolver.exe
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\bin\Debug\net6.0\QSolver.deps.json
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\bin\Debug\net6.0\QSolver.runtimeconfig.json
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\bin\Debug\net6.0\QSolver.dll
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\bin\Debug\net6.0\QSolver.pdb
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.csproj.AssemblyReference.cache
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.AssemblyInfoInputs.cache
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.AssemblyInfo.cs
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.csproj.CoreCompileInputs.cache
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.dll
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\refint\QSolver.dll
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.pdb
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\QSolver.genruntimeconfig.cache
+C:\Users\bpost\OneDrive - Dewpoint\Documents\repos\Mentorship_Quadratic\Quadratic\QSolver\obj\Debug\net6.0\ref\QSolver.dll
